@@ -1,5 +1,7 @@
 ### Hi there Friends👋
 
+<details>
+  <summary>Sample formatting content </summary>
 This is a [Google](https://google.com) link
 
 - [ ] To do item 1
@@ -8,6 +10,7 @@ This is a [Google](https://google.com) link
 ```ts
 var fname = 'Mahendra'
 ```
+</details>
 <!--
 **MahendraPalagiri/MahendraPalagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
