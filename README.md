@@ -1,5 +1,10 @@
 ### Hi there Friends👋
 
+<p alig="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahendrapalagiri&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendrapalagiri&theme=tokyonight" />
+</p>  
+  
 <details>
   <summary>Sample formatting content </summary>
 This is a [Google](https://google.com) link
@@ -10,6 +15,8 @@ This is a [Google](https://google.com) link
 ```ts
 var fname = 'Mahendra'
 ```
+
+ 
 </details>
 <!--
 **MahendraPalagiri/MahendraPalagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
