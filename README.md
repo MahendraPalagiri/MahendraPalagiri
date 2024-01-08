@@ -2,6 +2,8 @@
 
 This is a [Google](https://google.com) link
 
+- [ ] To do item 1
+- [ ] To do item 2
 <!--
 **MahendraPalagiri/MahendraPalagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
